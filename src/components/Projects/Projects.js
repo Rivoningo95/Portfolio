@@ -27,7 +27,7 @@ function Projects() {
               imgPath={bitsOfCode}
               isBlog={false}
               title="Food Receipt"
-              description="My personal appilcation for food receipt."
+              description="My personal appilcation that I developed for cake receipt."
               ghLink="https://github.com/soumyajit4419/Bits-0f-C0de"
             />
           </Col>
@@ -37,7 +37,7 @@ function Projects() {
               imgPath={editor}
               isBlog={false}
               title="To do list"
-              description="To do list application that we did as a group"
+              description="An application that we did as a team to test our mind"
               ghLink="https://github.com/soumyajit4419/Editor.io"              
             />
           </Col>
@@ -47,7 +47,7 @@ function Projects() {
               imgPath={suicide}
               isBlog={false}
               title="Movie App"
-              description="Movie app that we did as a team."
+              description="A first project that we created with my team at The digital Academy."
               ghLink="https://github.com/soumyajit4419/AI_For_Social_Good"
               // demoLink="https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley" <--------Please include a demo link here
             />
@@ -57,9 +57,8 @@ function Projects() {
             <ProjectCard
               imgPath={emotion}
               isBlog={false}
-              title="Wize rentalz"
-              description="Trained a CNN classifier using 'FER-2013 dataset' with Keras and tensorflow backened. The classifier sucessfully predicted the various types of emotions of human. And the highest accuracy obtained with the model was 60.1%.
-              Then used Open-CV to detect the face in an image and then pass the face to the classifer to predict the emotion of a person."
+              title="Wize Rentalz"
+              description="A project app that we did with my team, to help people who moved to a new area with low income, and will also help landlords with backrooms and communes."
               ghLink="https://github.com/soumyajit4419/Face_And_Emotion_Detection"
               // demoLink="https://blogs.soumya-jit.tech/"      <--------Please include a demo link here 
             />
