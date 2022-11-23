@@ -28,7 +28,7 @@ function Projects() {
               isBlog={false}
               title="Food Receipt"
               description="My personal appilcation that I developed for cake receipt."
-              ghLink="https://github.com/soumyajit4419/Bits-0f-C0de"
+              ghLink="https://github.com/Rivoningo95/food-recipe"
             />
           </Col>
 
@@ -38,7 +38,7 @@ function Projects() {
               isBlog={false}
               title="To do list"
               description="An application that we did as a team to test our mind"
-              ghLink="https://github.com/soumyajit4419/Editor.io"              
+              ghLink="https://github.com/Rivoningo95/team-c-todo"              
             />
           </Col>
 
@@ -48,7 +48,7 @@ function Projects() {
               isBlog={false}
               title="Movie App"
               description="A first project that we created with my team at The digital Academy."
-              ghLink="https://github.com/soumyajit4419/AI_For_Social_Good"
+              ghLink="https://github.com/Rivoningo95/movie_db"
               // demoLink="https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley" <--------Please include a demo link here
             />
           </Col>
@@ -59,7 +59,7 @@ function Projects() {
               isBlog={false}
               title="Wize Rentalz"
               description="A project app that we did with my team, to help people who moved to a new area with low income, and will also help landlords with backrooms and communes."
-              ghLink="https://github.com/soumyajit4419/Face_And_Emotion_Detection"
+              // ghLink="https://github.com/soumyajit4419/Face_And_Emotion_Detection"
               // demoLink="https://blogs.soumya-jit.tech/"      <--------Please include a demo link here 
             />
           </Col>
