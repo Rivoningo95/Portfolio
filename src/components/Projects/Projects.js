@@ -27,7 +27,7 @@ function Projects() {
               imgPath={bitsOfCode}
               isBlog={false}
               title="Food Receipt"
-              description="My personal appilcation that I developed for cake receipt."
+              description="My personal appilcation project that I developed for cake receipt."
               ghLink="https://github.com/Rivoningo95/food-recipe"
             />
           </Col>
@@ -37,7 +37,7 @@ function Projects() {
               imgPath={editor}
               isBlog={false}
               title="To do list"
-              description="An application that we did as a team to test our mind"
+              description="A project application that we did as a team to test our skills"
               ghLink="https://github.com/Rivoningo95/team-c-todo"              
             />
           </Col>
