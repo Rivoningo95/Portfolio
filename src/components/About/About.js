@@ -43,9 +43,9 @@ function About() {
         <h1 className="project-heading">
            Javascript<br></br>
            nodejs<br></br>
-           React<br></br>
            Angular2+<br></br>
            html<br></br>
+           UI/UX design<br></br>
            postgres
         </h1>
         <Toolstack />

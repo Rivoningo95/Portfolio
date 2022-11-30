@@ -30,13 +30,14 @@ function Home2() {
               My field of Interest's are building&nbsp;
               <i>
                 <b className="purple">my own applications</b> and
-                also to learn more about technology{" "}
-                
+                also to {" "}
+                <b className="purple">
+                learn more about technology.
+                </b>
               </i>
               <br />
               <br />
-              Whenever possible, I also apply my passion for developing products
-              with <b className="purple">Node.js</b> and
+             I am willing tyo learn more about <b className="purple">Node.js</b> and
               <i>
                 <b className="purple">
                   {" "}
@@ -45,7 +46,7 @@ function Home2() {
               </i>
               &nbsp; like
               <i>
-                <b className="purple"> React.js and Next.js</b>
+                <b className="purple"> React.js</b>
               </i>
             </p>
           </Col>
