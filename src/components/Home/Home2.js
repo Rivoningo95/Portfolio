@@ -51,12 +51,7 @@ function Home2() {
             </p>
           </Col>
           <Col md={4} className="myAvtar">
-            
-          </Col>
-        </Row>
-        <Row>
-          <Col md={12} className="home-about-social">
-            <h1>FIND ME ON</h1>
+          <h1>FIND ME ON</h1>
             <p>
               Please feel free to <span className="purple">connect </span>with me
             </p>
@@ -102,6 +97,11 @@ function Home2() {
                 </a>
               </li> */}
             </ul>
+          </Col>
+        </Row>
+        <Row>
+          <Col md={12} className="home-about-social">
+           
           </Col>
         </Row>
       </Container>
