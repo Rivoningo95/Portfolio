@@ -1,6 +1,6 @@
 import React from "react";
 import { Container, Row, Col } from "react-bootstrap";
-import myImg from "../../Assets/avatar.svg";
+
 import Tilt from "react-parallax-tilt";
 import {
   AiFillGithub,
@@ -19,22 +19,19 @@ function Home2() {
               LET ME <span className="purple"> INTRODUCE </span> MYSELF
             </h1>
             <p className="home-about-body">
-              I fell in love with programming and I have at least learnt
-              something, I think… 🤷‍♂️
+              I love programming and I am learning new things everyday.
               <br />
-              <br />I am fluent in classics like
+              <br />Now I am focusing more at
               <i>
-                <b className="purple"> C++ and Javascript. </b>
+                <b className="purple"> html, css, nodejs, Angular2+, bootstrap and Javascript. </b>
               </i>
               <br />
               <br />
               My field of Interest's are building&nbsp;
               <i>
-                <b className="purple">my own application</b> and
-                also to learn more about technolgy{" "}
-                <b className="purple">
-                  Deep Learning and Natural Launguage Processing.
-                </b>
+                <b className="purple">my own applications</b> and
+                also to learn more about technology{" "}
+                
               </i>
               <br />
               <br />
@@ -53,16 +50,14 @@ function Home2() {
             </p>
           </Col>
           <Col md={4} className="myAvtar">
-            <Tilt>
-              <img src={myImg} className="img-fluid" alt="avatar" />
-            </Tilt>
+            
           </Col>
         </Row>
         <Row>
           <Col md={12} className="home-about-social">
             <h1>FIND ME ON</h1>
             <p>
-              Feel free to <span className="purple">connect </span>with me
+              Please feel free to <span className="purple">connect </span>with me
             </p>
             <ul className="home-about-social-links">
               <li className="social-icons">

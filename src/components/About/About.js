@@ -4,7 +4,7 @@ import { Container, Row, Col } from "react-bootstrap";
 
 import Techstack from "./Techstack";
 import Aboutcard from "./AboutCard";
-import laptopImg from "../../Assets/about.png";
+import laptopImg from "../../Assets/riri.jpg";
 import Toolstack from "./Toolstack";
 
 function About() {
@@ -41,7 +41,12 @@ function About() {
         <Techstack />
 
         <h1 className="project-heading">
-          <strong className="purple">Tools</strong> I use
+           Javascript<br></br>
+           nodejs<br></br>
+           React<br></br>
+           Angular2+<br></br>
+           html<br></br>
+           postgres
         </h1>
         <Toolstack />
 
