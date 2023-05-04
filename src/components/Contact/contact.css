@@ -1,14 +1,6 @@
-div.form
-{
-    display: block;
-    text-align: center;
+.form{
+    margin-bottom: 200px;
 }
-form
-{
-    display: inline-block;
-    margin-left: auto;
-    margin-right: auto;
-    margin-bottom: auto;
-    margin-top: auto;
-    text-align: left;
+.text-center{
+    margin-bottom: 220px;
 }
