@@ -1,6 +1,10 @@
 .form{
-    margin-bottom: 200px;
+    margin-bottom: 20px;
+    display: inline-block;
 }
 .text-center{
     margin-bottom: 220px;
+}
+.col{
+    margin-bottom: 200px;
 }
