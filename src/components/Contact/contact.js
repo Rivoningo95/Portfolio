@@ -32,7 +32,7 @@ function App() {
     <div className="form">
       <div className="row">
         <div className="col align-self-center">
-          <h1 className="text-center">Contact Me</h1>
+          <h1 className="text-center">Plesae Contact Me</h1>
 
           {/* <!-- contact form --> */}
           <form ref={form} onSubmit={sendEmail}>
